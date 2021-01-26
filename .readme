@@ -1,0 +1,2 @@
+#1 Run 'truffle develop' and 'migrate --reset'
+#2 cd into vapp and run "npm run serve"
